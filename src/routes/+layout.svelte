@@ -34,6 +34,7 @@
 	/>
 	<meta name="twitter:title" content="Appwrite - Open-Source End-to-End Backend Server" />
 	<meta name="twitter:image:src" content="https://appwrite.io/images/logo.png?v=500" />
+	<meta property="og:image" content="https://appwrite.io/images/logo.png?v=500" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content="@appwrite" />
 	<meta property="og:site_name" content="Appwrite" />
