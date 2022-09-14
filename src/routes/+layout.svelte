@@ -32,8 +32,21 @@
 		name="description"
 		content="Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs."
 	/>
-	<link rel="icon" type="image/png" href="/images/favicon.png?v=402" />
-	<link rel="apple-touch-icon" href="/images/apple.png" />
+	<meta name="twitter:title" content="Appwrite - Open-Source End-to-End Backend Server" />
+	<meta name="twitter:image:src" content="https://appwrite.io/images/logo.png?v=500" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@appwrite" />
+	<meta property="og:site_name" content="Appwrite" />
+	<meta property="og:title" content="Appwrite - Open-Source End-to-End Backend Server" />
+	<meta
+		property="og:description"
+		content="Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs."
+	/>
+	<meta property="og:site_name" content="Appwrite" />
+	<meta name="theme-color" content="#f02e65" />
+
+	<link rel="icon" type="image/png" href="https://appwrite.io/images/favicon.png?v=402" />
+	<link rel="apple-touch-icon" href="https://appwrite.io/images/apple.png" />
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 	<link
